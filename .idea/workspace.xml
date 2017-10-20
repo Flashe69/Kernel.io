@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ad358307-b098-4075-a22a-7bcdcc746dbe" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.min.css" afterPath="$PROJECT_DIR$/css/main.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/common.min.js" afterPath="$PROJECT_DIR$/js/common.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_header.html" afterPath="$PROJECT_DIR$/pages/base/_header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main-aboutUs.html" afterPath="$PROJECT_DIR$/pages/base/_main-aboutUs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-aboutUs.html" afterPath="$PROJECT_DIR$/pages/index-aboutUs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-bestCow.html" afterPath="$PROJECT_DIR$/pages/index-bestCow.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-comanda.html" afterPath="$PROJECT_DIR$/pages/index-comanda.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-feedback.html" afterPath="$PROJECT_DIR$/pages/index-feedback.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-mediaNews.html" afterPath="$PROJECT_DIR$/pages/index-mediaNews.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-meta.html" afterPath="$PROJECT_DIR$/pages/index-meta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-moloko.html" afterPath="$PROJECT_DIR$/pages/index-moloko.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-neteli.html" afterPath="$PROJECT_DIR$/pages/index-neteli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-news.html" afterPath="$PROJECT_DIR$/pages/index-news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.html" afterPath="$PROJECT_DIR$/pages/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_aboutUs_page.html" afterPath="$PROJECT_DIR$/pages/layout/_aboutUs_page.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -139,12 +124,12 @@
       <updated>1507115558278</updated>
       <workItem from="1507115560238" duration="1734000" />
       <workItem from="1507475253443" duration="236000" />
-      <workItem from="1508505517725" duration="151000" />
+      <workItem from="1508505517725" duration="277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2121000" />
+    <option name="totallyTimeSpent" value="2247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1394" height="877" extended-state="6" />
