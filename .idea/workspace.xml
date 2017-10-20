@@ -5,20 +5,19 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.min.css" afterPath="$PROJECT_DIR$/css/main.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/common.min.js" afterPath="$PROJECT_DIR$/js/common.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main-feedback.html" afterPath="$PROJECT_DIR$/pages/base/_main-feedback.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main-media-news.html" afterPath="$PROJECT_DIR$/pages/base/_main-media-news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main-meta.html" afterPath="$PROJECT_DIR$/pages/base/_main-meta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main-news.html" afterPath="$PROJECT_DIR$/pages/base/_main-news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main.html" afterPath="$PROJECT_DIR$/pages/base/_main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_script.html" afterPath="$PROJECT_DIR$/pages/base/_script.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_header.html" afterPath="$PROJECT_DIR$/pages/base/_header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main-aboutUs.html" afterPath="$PROJECT_DIR$/pages/base/_main-aboutUs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-aboutUs.html" afterPath="$PROJECT_DIR$/pages/index-aboutUs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-bestCow.html" afterPath="$PROJECT_DIR$/pages/index-bestCow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-comanda.html" afterPath="$PROJECT_DIR$/pages/index-comanda.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-feedback.html" afterPath="$PROJECT_DIR$/pages/index-feedback.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-mediaNews.html" afterPath="$PROJECT_DIR$/pages/index-mediaNews.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-meta.html" afterPath="$PROJECT_DIR$/pages/index-meta.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-moloko.html" afterPath="$PROJECT_DIR$/pages/index-moloko.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-neteli.html" afterPath="$PROJECT_DIR$/pages/index-neteli.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-news.html" afterPath="$PROJECT_DIR$/pages/index-news.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.html" afterPath="$PROJECT_DIR$/pages/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_feedback.html" afterPath="$PROJECT_DIR$/pages/layout/_feedback.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_news-env.html" afterPath="$PROJECT_DIR$/pages/layout/_news-env.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_news.html" afterPath="$PROJECT_DIR$/pages/layout/_news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_principle.html" afterPath="$PROJECT_DIR$/pages/layout/_principle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_aboutUs_page.html" afterPath="$PROJECT_DIR$/pages/layout/_aboutUs_page.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,7 +36,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,10 +57,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="56" />
+    <option name="x" value="7" />
     <option name="y" value="23" />
-    <option name="width" value="1622" />
-    <option name="height" value="779" />
+    <option name="width" value="1425" />
+    <option name="height" value="864" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -95,8 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,6 +105,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,12 +138,13 @@
       <option name="presentableId" value="Default" />
       <updated>1507115558278</updated>
       <workItem from="1507115560238" duration="1734000" />
-      <workItem from="1507475253443" duration="21000" />
+      <workItem from="1507475253443" duration="236000" />
+      <workItem from="1508505517725" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1755000" />
+    <option name="totallyTimeSpent" value="2121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1394" height="877" extended-state="6" />
